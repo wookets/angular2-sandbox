@@ -1,0 +1,27 @@
+{
+  "name": "angular2-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.12",
+    "hapi": "^8.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wookets/angular2-sandbox.git"
+  },
+  "keywords": [
+    "angular2"
+  ],
+  "author": "wookets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wookets/angular2-sandbox/issues"
+  },
+  "homepage": "https://github.com/wookets/angular2-sandbox"
+}
