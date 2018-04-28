@@ -1,6 +1,8 @@
 
 # Angular2 Sandbox
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wookets/angular2-sandbox.svg)](https://greenkeeper.io/)
+
 Because sandboxes are fun!
 
 ## Install
